@@ -1,0 +1,70 @@
+*
+	{
+		font-family: fantasy;
+	}
+
+body 
+  	{
+  		background-color: #c7bf89;
+  	}
+
+h1
+{
+	text-align: center;
+	color:#356b34;
+}
+
+h3
+{
+	text-align: center;
+}
+
+p
+{
+	padding-left: 15px;
+}
+  	
+.card
+	{
+  		background-color: #e3e6df;
+  	}
+  	
+td 
+  	{
+  		height: 50px;
+  		padding: 5px;
+  		font-family: fantasy;
+  	}
+  	
+.list-group-item
+  	{
+  		background-color: #fff;
+  	}
+  	
+button,
+input,
+h6
+  	{
+  		font-family: fantasy;
+  	}
+  	
+.footer
+  	{
+  		position: fixed;
+  		left: 0;
+  		bottom: 0;
+  		width: 100%;
+  		background-color:#000;
+  		color: white;
+  		text-align: center;
+  		
+  	}
+
+.center
+  	{
+  		display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+  		width: 20%;
+  		padding-bottom: 100px;
+  	}
